@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cat Translate</string>
+    <string name="action_about">关于</string>
+    <string name="action_update_info">更新日志</string>
+    <string name="action_youdao">有道翻译</string>
+</resources>
